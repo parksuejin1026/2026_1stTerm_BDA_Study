@@ -1,6 +1,6 @@
-# 2026 Big Data Analysis Study
+# 빅데이터분석프로그래밍
 
-빅데이터 분석 프로그래밍 수업 내용을 주차별로 정리한 저장소입니다.  
+2026년 1학기 빅데이터분석프로그래밍 수업 내용을 주차별로 정리한 저장소입니다.  
 Python 기초부터 NumPy, Pandas, 데이터 시각화까지 Jupyter Notebook으로 실습한 내용을 담고 있습니다.
 
 ## 사용 기술
@@ -32,7 +32,7 @@ Python 기초부터 NumPy, Pandas, 데이터 시각화까지 Jupyter Notebook으
 ## 폴더 구조
 
 ```text
-2026_BDA_Study/
+2026_1stTerm_BDA_Study/
 ├── Week1/ ~ Week12/   # 주차별 수업 노트북
 ├── Assignment/        # 과제 파일
 ├── 수업자료/          # 수업 자료
@@ -40,3 +40,7 @@ Python 기초부터 NumPy, Pandas, 데이터 시각화까지 Jupyter Notebook으
 ├── requirements.txt
 └── README.md
 ```
+
+## 수업 원본 자료
+
+교수님 자료는 [ai7dnn/2026-1-BDA](https://github.com/ai7dnn/2026-1-BDA)에서 확인합니다. 이 저장소에는 수업을 따라 진행한 실습, 과제와 개인 정리를 보관합니다.
